@@ -18,4 +18,4 @@ I'm a developer focused on learning Python, strengthening my foundations in soft
 
 * **Languages & Core:** Python, Object-Oriented Programming (OOP), Data Structures & Algorithms
 * **Mathematics:** Discrete Math, Logarithmic Complexity — `O(log n)`, Linear Algebra
-* 
+  
